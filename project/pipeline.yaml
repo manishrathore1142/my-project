@@ -1,0 +1,5 @@
+project: "manishrathore1142/my-project"
+repository: "github.com/manishrathore1142/my-project"
+cloneURL: "https://github.com/manishrathore1142/my-project.git"
+
+sharedSecret: "123456789"
